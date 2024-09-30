@@ -70,7 +70,17 @@
         "readtime": 1,
         "videos": {},
         "images": {},
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]bully.jpg",
+            "fullUrl": "//home/andyux01/media-site12/files/bully.jpg",
+            "url": "files/bully.jpg",
+            "type": "image/jpeg",
+            "name": "bully.jpg",
+            "size": 24510
+          }
+        ]
       }
     },
     {
